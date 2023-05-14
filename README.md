@@ -1,4 +1,4 @@
-# Online-Retail-Customer-Segmentation
+# Online_Retail_Customer_Segmentation
 
 
 <p align="center">
